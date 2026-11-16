@@ -21,4 +21,4 @@
 - [Support](https://isaacelazzabi.github.io/septimius-privacy/support/)
 - [Privacy policy](https://isaacelazzabi.github.io/septimius-privacy/)
 
-Built by Isaac Elazzabi, Calgary, Canada.
+Built by [Isaac Elazzabi](https://ca.linkedin.com/in/isaac-elazzabi), Calgary, Canada.
