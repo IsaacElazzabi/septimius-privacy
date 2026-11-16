@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" width="1280" height="420" role="img" aria-label="Septimius: phishing protection for your browser">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#16295f"/></linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.32" r="0.55"><stop offset="0" stop-color="#3b82f6" stop-opacity="0.38"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+    <linearGradient id="sh" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5aa9ff"/><stop offset="1" stop-color="#1d4fd0"/></linearGradient>
+  </defs>
+  <rect width="1280" height="420" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="420" rx="18" fill="url(#glow)"/>
+  <g fill="none" stroke="#9fe1cb" stroke-width="4" stroke-linecap="round" opacity="0.85">
+    <path d="M48 96 V48 H96"/><path d="M1184 48 H1232 V96"/><path d="M48 324 V372 H96"/><path d="M1232 324 V372 H1184"/>
+  </g>
+  <g transform="translate(640 102)">
+    <path d="M0 -58 L50 -38 V6 C50 40 22 64 0 74 C-22 64 -50 40 -50 6 V-38 Z" fill="url(#sh)" stroke="#bcd9ff" stroke-width="3"/>
+    <path d="M-22 6 L-6 22 L26 -16" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" text-anchor="middle">
+    <text x="640" y="232" font-size="62" font-weight="800" letter-spacing="9" fill="#ffffff">SEPTIMIUS</text>
+    <text x="640" y="278" font-size="24" fill="#cfe0ff">Phishing protection that warns you before you type a password</text>
+    <g font-size="17" font-weight="700">
+      <rect x="376" y="304" width="120" height="36" rx="18" fill="#1f5fd1"/><text x="436" y="328" fill="#ffffff">Firefox</text>
+      <rect x="512" y="304" width="120" height="36" rx="18" fill="#1f5fd1"/><text x="572" y="328" fill="#ffffff">Android</text>
+      <rect x="648" y="304" width="120" height="36" rx="18" fill="#1f5fd1"/><text x="708" y="328" fill="#ffffff">Edge</text>
+      <rect x="784" y="304" width="120" height="36" rx="18" fill="#1f5fd1"/><text x="844" y="328" fill="#ffffff">Chrome</text>
+    </g>
+    <text x="640" y="380" font-size="18" fill="#9fe1cb">Free  ·  No account  ·  Your page text never leaves your device</text>
+  </g>
+</svg>
