@@ -13,7 +13,7 @@
 |---|---|
 | **Firefox** (desktop and Android) | [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/septimius-phishing-detector/) |
 | **Microsoft Edge** | [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/septimius-phishing-dete/akilfojebneefelpeeohehpdobgobeod) |
-| **Google Chrome** | [Chrome Web Store](https://chromewebstore.google.com/search/Septimius%20-%20Phishing%20Detector) |
+| **Google Chrome** | [Chrome Web Store](https://chromewebstore.google.com/detail/septimius-phishing-detect/fjhdpbdldfggcfkldklaigkiimieccjg) |
 
 ## Learn more
 
